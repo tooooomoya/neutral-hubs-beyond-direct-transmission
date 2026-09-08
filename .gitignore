@@ -1,0 +1,16 @@
+results/
+bin/
+figures/
+.DS_Store
+venv/
+logs/
+*.log
+*.png
+*.gif
+node_modules/
+.javafiles.txt
+__pycache__/
+dashboard/color_presets.local.json
+
+# fetched by lib/fetch-deps.sh, not vendored
+lib/gephi/

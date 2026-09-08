@@ -1,0 +1,766 @@
+handle,party_id,ideological_lean,party_id_label,ideological_lean_label,total_posts,n_days_observed
+tw_user_3954,1.0,0.0,Closer to the Republican party,4 Middle of the road,281,737
+tw_user_5399,-2.0,1.0,Not very strong Democrat,5 Somewhat conservative,90,737
+tw_user_1575,3.0,3.0,Strong Republican,7 Very conservative,563,737
+tw_user_9882,1.0,0.0,Closer to the Republican party,4 Middle of the road,4527,737
+tw_user_6339,,0.0,No party,4 Middle of the road,662,737
+tw_user_3787,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,11,737
+tw_user_5925,3.0,3.0,Strong Republican,7 Very conservative,3484,737
+tw_user_7329,0.0,3.0,Independent,7 Very conservative,602,737
+tw_user_3702,-3.0,-3.0,Strong Democrat,1 Very liberal,169,737
+tw_user_4548,,0.0,No party,4 Middle of the road,272,737
+tw_user_2007,-2.0,-2.0,Not very strong Democrat,2 Liberal,43,737
+tw_user_7061,-3.0,0.0,Strong Democrat,4 Middle of the road,16414,737
+tw_user_9738,0.0,-2.0,Independent,2 Liberal,1431,737
+tw_user_3113,1.0,0.0,Closer to the Republican party,4 Middle of the road,1996,737
+tw_user_9788,-3.0,0.0,Strong Democrat,4 Middle of the road,46,737
+tw_user_2710,2.0,0.0,Not very strong Republican,4 Middle of the road,2309,737
+tw_user_2238,0.0,0.0,Independent,4 Middle of the road,142,737
+tw_user_1253,3.0,3.0,Strong Republican,7 Very conservative,39,737
+tw_user_6180,-3.0,3.0,Strong Democrat,7 Very conservative,270,737
+tw_user_9042,-3.0,0.0,Strong Democrat,4 Middle of the road,173,737
+tw_user_6992,3.0,3.0,Strong Republican,7 Very conservative,410,737
+tw_user_2341,-3.0,-2.0,Strong Democrat,2 Liberal,124,737
+tw_user_2838,-3.0,0.0,Strong Democrat,4 Middle of the road,1034,737
+tw_user_9001,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,864,737
+tw_user_6047,3.0,2.0,Strong Republican,6 Conservative,14,737
+tw_user_5842,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,13,737
+tw_user_3863,-3.0,3.0,Strong Democrat,7 Very conservative,100,737
+tw_user_2662,-3.0,0.0,Strong Democrat,4 Middle of the road,3510,737
+tw_user_9178,-1.0,-2.0,Closer to the Democratic party,2 Liberal,1143,737
+tw_user_9541,2.0,1.0,Not very strong Republican,5 Somewhat conservative,65,737
+tw_user_1302,0.0,0.0,Independent,4 Middle of the road,947,737
+tw_user_6213,-3.0,-2.0,Strong Democrat,2 Liberal,4652,737
+tw_user_5239,-3.0,0.0,Strong Democrat,4 Middle of the road,35,737
+tw_user_8107,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,5199,737
+tw_user_1127,2.0,2.0,Not very strong Republican,6 Conservative,7,737
+tw_user_5033,2.0,2.0,Not very strong Republican,6 Conservative,325,737
+tw_user_5548,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,3477,737
+tw_user_8690,0.0,0.0,Independent,4 Middle of the road,53,737
+tw_user_8764,-2.0,2.0,Not very strong Democrat,6 Conservative,49,737
+tw_user_9994,2.0,2.0,Not very strong Republican,6 Conservative,749,737
+tw_user_7938,-3.0,-3.0,Strong Democrat,1 Very liberal,225,737
+tw_user_2137,0.0,0.0,Independent,4 Middle of the road,3338,737
+tw_user_1221,3.0,0.0,Strong Republican,4 Middle of the road,283,737
+tw_user_4374,2.0,0.0,Not very strong Republican,4 Middle of the road,59,737
+tw_user_5746,0.0,0.0,Independent,4 Middle of the road,8282,737
+tw_user_3842,-3.0,-2.0,Strong Democrat,2 Liberal,55,737
+tw_user_3829,3.0,3.0,Strong Republican,7 Very conservative,150,737
+tw_user_4377,-2.0,0.0,Not very strong Democrat,4 Middle of the road,4729,737
+tw_user_3942,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,282,737
+tw_user_2372,-2.0,0.0,Not very strong Democrat,4 Middle of the road,325,737
+tw_user_3012,0.0,0.0,Independent,4 Middle of the road,1101,737
+tw_user_5046,3.0,2.0,Strong Republican,6 Conservative,29,737
+tw_user_2211,-1.0,1.0,Closer to the Democratic party,5 Somewhat conservative,2737,737
+tw_user_7097,2.0,2.0,Not very strong Republican,6 Conservative,112,737
+tw_user_4837,-3.0,3.0,Strong Democrat,7 Very conservative,350,737
+tw_user_5400,-3.0,-3.0,Strong Democrat,1 Very liberal,141404,737
+tw_user_4699,-3.0,-3.0,Strong Democrat,1 Very liberal,513,737
+tw_user_7156,0.0,0.0,Independent,4 Middle of the road,4466,737
+tw_user_8158,-2.0,-2.0,Not very strong Democrat,2 Liberal,1534,737
+tw_user_7772,3.0,2.0,Strong Republican,6 Conservative,20,737
+tw_user_4589,-3.0,1.0,Strong Democrat,5 Somewhat conservative,148,737
+tw_user_8962,0.0,0.0,Independent,4 Middle of the road,229,737
+tw_user_8430,-3.0,-2.0,Strong Democrat,2 Liberal,135,737
+tw_user_6286,3.0,3.0,Strong Republican,7 Very conservative,55,737
+tw_user_1899,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,63,737
+tw_user_2340,-3.0,-3.0,Strong Democrat,1 Very liberal,194,737
+tw_user_8027,-3.0,-2.0,Strong Democrat,2 Liberal,356,737
+tw_user_2557,-3.0,-3.0,Strong Democrat,1 Very liberal,4824,737
+tw_user_2738,-3.0,-2.0,Strong Democrat,2 Liberal,80,737
+tw_user_1053,0.0,-2.0,Independent,2 Liberal,4873,737
+tw_user_9730,-3.0,0.0,Strong Democrat,4 Middle of the road,123,737
+tw_user_8427,,0.0,Not sure,4 Middle of the road,158,737
+tw_user_9961,0.0,1.0,Independent,5 Somewhat conservative,381,737
+tw_user_3276,3.0,0.0,Strong Republican,4 Middle of the road,357,737
+tw_user_5485,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,440,737
+tw_user_3483,2.0,-2.0,Not very strong Republican,2 Liberal,149,737
+tw_user_9212,-3.0,-3.0,Strong Democrat,1 Very liberal,5720,737
+tw_user_5007,3.0,3.0,Strong Republican,7 Very conservative,121,737
+tw_user_1497,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,714,737
+tw_user_3716,0.0,-3.0,Independent,1 Very liberal,8583,737
+tw_user_3621,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,752,737
+tw_user_2906,-3.0,-2.0,Strong Democrat,2 Liberal,586,737
+tw_user_4665,,-3.0,Other party,1 Very liberal,737,737
+tw_user_3917,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,5376,737
+tw_user_4319,-3.0,-2.0,Strong Democrat,2 Liberal,856,737
+tw_user_8600,-2.0,0.0,Not very strong Democrat,4 Middle of the road,3812,737
+tw_user_8337,3.0,-2.0,Strong Republican,2 Liberal,1683,737
+tw_user_9326,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,3112,737
+tw_user_5306,1.0,0.0,Closer to the Republican party,4 Middle of the road,187,737
+tw_user_7369,-3.0,-3.0,Strong Democrat,1 Very liberal,5800,737
+tw_user_6421,-2.0,-2.0,Not very strong Democrat,2 Liberal,4857,737
+tw_user_3407,3.0,3.0,Strong Republican,7 Very conservative,3376,737
+tw_user_9070,,-1.0,No party,3 Somewhat liberal,96,737
+tw_user_4620,3.0,0.0,Strong Republican,4 Middle of the road,62,737
+tw_user_4487,-3.0,-2.0,Strong Democrat,2 Liberal,2759,737
+tw_user_1916,0.0,0.0,Independent,4 Middle of the road,11,737
+tw_user_4867,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,411,737
+tw_user_9376,3.0,-3.0,Strong Republican,1 Very liberal,1598,737
+tw_user_9174,2.0,2.0,Not very strong Republican,6 Conservative,1869,737
+tw_user_1806,3.0,3.0,Strong Republican,7 Very conservative,27006,737
+tw_user_7478,0.0,0.0,Independent,4 Middle of the road,4683,737
+tw_user_6682,-3.0,-2.0,Strong Democrat,2 Liberal,887,737
+tw_user_1028,0.0,0.0,Independent,4 Middle of the road,1736,737
+tw_user_5521,2.0,2.0,Not very strong Republican,6 Conservative,1117,737
+tw_user_7815,0.0,0.0,Independent,4 Middle of the road,12143,737
+tw_user_7645,-3.0,-3.0,Strong Democrat,1 Very liberal,3600,737
+tw_user_2358,0.0,0.0,Independent,4 Middle of the road,2292,737
+tw_user_3062,-2.0,0.0,Not very strong Democrat,4 Middle of the road,5289,737
+tw_user_9847,-3.0,-3.0,Strong Democrat,1 Very liberal,3346,737
+tw_user_6228,-3.0,-2.0,Strong Democrat,2 Liberal,338,737
+tw_user_3759,0.0,0.0,Independent,4 Middle of the road,5,737
+tw_user_4273,-3.0,-3.0,Strong Democrat,1 Very liberal,3279,737
+tw_user_4469,3.0,3.0,Strong Republican,7 Very conservative,1601,737
+tw_user_7529,-3.0,-2.0,Strong Democrat,2 Liberal,604,737
+tw_user_1865,-3.0,-2.0,Strong Democrat,2 Liberal,1148,737
+tw_user_7387,3.0,0.0,Strong Republican,4 Middle of the road,32,737
+tw_user_8209,-3.0,0.0,Strong Democrat,4 Middle of the road,29,737
+tw_user_7278,-3.0,-3.0,Strong Democrat,1 Very liberal,11,737
+tw_user_8822,0.0,2.0,Independent,6 Conservative,589,737
+tw_user_4946,3.0,0.0,Strong Republican,4 Middle of the road,769,737
+tw_user_2575,0.0,0.0,Independent,4 Middle of the road,571,737
+tw_user_5683,-3.0,-3.0,Strong Democrat,1 Very liberal,1243,737
+tw_user_6646,-3.0,-3.0,Strong Democrat,1 Very liberal,3011,737
+tw_user_3448,2.0,1.0,Not very strong Republican,5 Somewhat conservative,115,737
+tw_user_5080,0.0,3.0,Independent,7 Very conservative,145,737
+tw_user_3136,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,48,737
+tw_user_5562,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,180,737
+tw_user_5959,0.0,-3.0,Independent,1 Very liberal,38,737
+tw_user_9394,0.0,-1.0,Independent,3 Somewhat liberal,106,737
+tw_user_9568,-1.0,2.0,Closer to the Democratic party,6 Conservative,99,737
+tw_user_7892,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,7856,737
+tw_user_2101,-3.0,-2.0,Strong Democrat,2 Liberal,213,737
+tw_user_8854,,-3.0,No party,1 Very liberal,577,737
+tw_user_8753,,3.0,Other party,7 Very conservative,1855,737
+tw_user_8202,0.0,0.0,Independent,4 Middle of the road,918,737
+tw_user_6851,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,1919,737
+tw_user_1658,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,2383,737
+tw_user_2426,3.0,1.0,Strong Republican,5 Somewhat conservative,1322,737
+tw_user_4725,0.0,-3.0,Independent,1 Very liberal,1543,737
+tw_user_5237,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,16,737
+tw_user_2259,3.0,-1.0,Strong Republican,3 Somewhat liberal,77,737
+tw_user_9489,0.0,0.0,Independent,4 Middle of the road,242,737
+tw_user_1671,-3.0,-3.0,Strong Democrat,1 Very liberal,567,737
+tw_user_3907,2.0,2.0,Not very strong Republican,6 Conservative,1903,737
+tw_user_8912,-3.0,-3.0,Strong Democrat,1 Very liberal,2211,737
+tw_user_5845,0.0,-3.0,Independent,1 Very liberal,697,737
+tw_user_7179,-3.0,-3.0,Strong Democrat,1 Very liberal,31394,737
+tw_user_9819,,0.0,No party,4 Middle of the road,323,737
+tw_user_5822,3.0,3.0,Strong Republican,7 Very conservative,37,737
+tw_user_8636,-1.0,-2.0,Closer to the Democratic party,2 Liberal,4462,737
+tw_user_7920,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,127,737
+tw_user_7480,-2.0,-2.0,Not very strong Democrat,2 Liberal,161,737
+tw_user_9390,-3.0,-2.0,Strong Democrat,2 Liberal,865,737
+tw_user_4164,0.0,2.0,Independent,6 Conservative,381,737
+tw_user_7368,-3.0,-3.0,Strong Democrat,1 Very liberal,3360,737
+tw_user_2802,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,47,737
+tw_user_3471,1.0,0.0,Closer to the Republican party,4 Middle of the road,121,737
+tw_user_8984,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,1614,737
+tw_user_4465,-3.0,0.0,Strong Democrat,4 Middle of the road,22,737
+tw_user_6640,-3.0,0.0,Strong Democrat,4 Middle of the road,8,737
+tw_user_9629,,-3.0,Other party,1 Very liberal,4561,737
+tw_user_2666,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,262,737
+tw_user_7675,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,4964,737
+tw_user_8480,-3.0,-3.0,Strong Democrat,1 Very liberal,3086,737
+tw_user_3620,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,1445,737
+tw_user_7255,,0.0,Other party,4 Middle of the road,40,737
+tw_user_7628,1.0,2.0,Closer to the Republican party,6 Conservative,353,737
+tw_user_8694,-2.0,-2.0,Not very strong Democrat,2 Liberal,28239,737
+tw_user_4309,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,2692,737
+tw_user_2042,-3.0,0.0,Strong Democrat,4 Middle of the road,204,737
+tw_user_4973,0.0,-3.0,Independent,1 Very liberal,6619,737
+tw_user_9189,-3.0,-3.0,Strong Democrat,1 Very liberal,1215,737
+tw_user_9270,2.0,1.0,Not very strong Republican,5 Somewhat conservative,491,737
+tw_user_7821,-3.0,1.0,Strong Democrat,5 Somewhat conservative,734,737
+tw_user_3142,-3.0,-3.0,Strong Democrat,1 Very liberal,6330,737
+tw_user_3005,1.0,-1.0,Closer to the Republican party,3 Somewhat liberal,36,737
+tw_user_8191,,-1.0,No party,3 Somewhat liberal,115,737
+tw_user_1825,-3.0,2.0,Strong Democrat,6 Conservative,2328,737
+tw_user_2904,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,1280,737
+tw_user_2858,-3.0,-3.0,Strong Democrat,1 Very liberal,1463,737
+tw_user_2542,-1.0,1.0,Closer to the Democratic party,5 Somewhat conservative,90,737
+tw_user_7626,-3.0,-3.0,Strong Democrat,1 Very liberal,922,737
+tw_user_9752,-3.0,-3.0,Strong Democrat,1 Very liberal,20003,737
+tw_user_7878,,3.0,No party,7 Very conservative,382,737
+tw_user_6094,-3.0,-2.0,Strong Democrat,2 Liberal,408,737
+tw_user_5232,0.0,-2.0,Independent,2 Liberal,102,737
+tw_user_7393,3.0,3.0,Strong Republican,7 Very conservative,696,737
+tw_user_3035,0.0,2.0,Independent,6 Conservative,3472,737
+tw_user_2304,-2.0,-3.0,Not very strong Democrat,1 Very liberal,368,737
+tw_user_4753,3.0,0.0,Strong Republican,4 Middle of the road,350,737
+tw_user_6441,3.0,2.0,Strong Republican,6 Conservative,25,737
+tw_user_5257,2.0,0.0,Not very strong Republican,4 Middle of the road,174,737
+tw_user_8452,-3.0,0.0,Strong Democrat,4 Middle of the road,243,737
+tw_user_2043,-3.0,-3.0,Strong Democrat,1 Very liberal,833,737
+tw_user_3074,0.0,0.0,Independent,4 Middle of the road,222,737
+tw_user_2593,-3.0,-2.0,Strong Democrat,2 Liberal,36,737
+tw_user_1926,-3.0,-2.0,Strong Democrat,2 Liberal,73,737
+tw_user_4754,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,27,737
+tw_user_6329,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,5749,737
+tw_user_1654,-3.0,0.0,Strong Democrat,4 Middle of the road,4383,737
+tw_user_3869,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,3549,737
+tw_user_8466,3.0,1.0,Strong Republican,5 Somewhat conservative,771,737
+tw_user_6275,3.0,2.0,Strong Republican,6 Conservative,831,737
+tw_user_9066,0.0,0.0,Independent,4 Middle of the road,736,737
+tw_user_2796,-3.0,-2.0,Strong Democrat,2 Liberal,1640,737
+tw_user_6758,3.0,3.0,Strong Republican,7 Very conservative,28,737
+tw_user_5377,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,573,737
+tw_user_9461,-3.0,-3.0,Strong Democrat,1 Very liberal,78,737
+tw_user_5150,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,33,737
+tw_user_6420,-3.0,0.0,Strong Democrat,4 Middle of the road,92,737
+tw_user_6930,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,2548,737
+tw_user_7983,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,965,737
+tw_user_9500,0.0,1.0,Independent,5 Somewhat conservative,1610,737
+tw_user_1831,-2.0,0.0,Not very strong Democrat,4 Middle of the road,215,737
+tw_user_2831,,0.0,Not sure,4 Middle of the road,191,737
+tw_user_3694,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,853,737
+tw_user_9417,3.0,3.0,Strong Republican,7 Very conservative,32038,737
+tw_user_3999,-3.0,-2.0,Strong Democrat,2 Liberal,4401,737
+tw_user_3860,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,4835,737
+tw_user_6904,0.0,0.0,Independent,4 Middle of the road,154,737
+tw_user_7084,-3.0,-3.0,Strong Democrat,1 Very liberal,240,737
+tw_user_1564,3.0,3.0,Strong Republican,7 Very conservative,31390,737
+tw_user_5747,-2.0,0.0,Not very strong Democrat,4 Middle of the road,31,737
+tw_user_9139,3.0,3.0,Strong Republican,7 Very conservative,67,737
+tw_user_4226,1.0,3.0,Closer to the Republican party,7 Very conservative,108,737
+tw_user_5357,1.0,0.0,Closer to the Republican party,4 Middle of the road,1339,737
+tw_user_8174,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,452,737
+tw_user_2994,3.0,3.0,Strong Republican,7 Very conservative,1140,737
+tw_user_2879,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,226,737
+tw_user_7837,3.0,2.0,Strong Republican,6 Conservative,378,737
+tw_user_4732,2.0,0.0,Not very strong Republican,4 Middle of the road,10929,737
+tw_user_7498,3.0,2.0,Strong Republican,6 Conservative,10944,737
+tw_user_6957,-1.0,-2.0,Closer to the Democratic party,2 Liberal,1583,737
+tw_user_7264,-3.0,-3.0,Strong Democrat,1 Very liberal,61,737
+tw_user_7712,-3.0,-2.0,Strong Democrat,2 Liberal,417,737
+tw_user_8686,-3.0,-3.0,Strong Democrat,1 Very liberal,308,737
+tw_user_8649,-3.0,-3.0,Strong Democrat,1 Very liberal,13646,737
+tw_user_1218,-3.0,-3.0,Strong Democrat,1 Very liberal,24505,737
+tw_user_4958,0.0,3.0,Independent,7 Very conservative,2020,737
+tw_user_8000,0.0,-2.0,Independent,2 Liberal,739,737
+tw_user_7778,-3.0,-2.0,Strong Democrat,2 Liberal,487,737
+tw_user_9194,-2.0,-2.0,Not very strong Democrat,2 Liberal,1028,737
+tw_user_6478,-3.0,-2.0,Strong Democrat,2 Liberal,129,737
+tw_user_2325,0.0,0.0,Independent,4 Middle of the road,246,737
+tw_user_2334,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,23,737
+tw_user_7891,-3.0,-3.0,Strong Democrat,1 Very liberal,381,737
+tw_user_6823,0.0,0.0,Independent,4 Middle of the road,790,737
+tw_user_9668,2.0,0.0,Not very strong Republican,4 Middle of the road,8134,737
+tw_user_9958,0.0,0.0,Independent,4 Middle of the road,5572,737
+tw_user_4605,-2.0,2.0,Not very strong Democrat,6 Conservative,253,737
+tw_user_5435,-3.0,-3.0,Strong Democrat,1 Very liberal,128,737
+tw_user_8817,0.0,0.0,Independent,4 Middle of the road,2930,737
+tw_user_9288,0.0,-1.0,Independent,3 Somewhat liberal,3898,737
+tw_user_3781,0.0,0.0,Independent,4 Middle of the road,8978,737
+tw_user_9739,2.0,-1.0,Not very strong Republican,3 Somewhat liberal,79,737
+tw_user_6778,3.0,3.0,Strong Republican,7 Very conservative,42,737
+tw_user_2404,-3.0,-3.0,Strong Democrat,1 Very liberal,10772,737
+tw_user_2284,0.0,0.0,Independent,4 Middle of the road,7761,737
+tw_user_4332,0.0,0.0,Independent,4 Middle of the road,239,737
+tw_user_5943,-3.0,-2.0,Strong Democrat,2 Liberal,15374,737
+tw_user_7397,-3.0,-2.0,Strong Democrat,2 Liberal,306,737
+tw_user_7698,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,608,737
+tw_user_6322,0.0,-2.0,Independent,2 Liberal,20,737
+tw_user_1498,-2.0,0.0,Not very strong Democrat,4 Middle of the road,440,737
+tw_user_6369,3.0,2.0,Strong Republican,6 Conservative,919,737
+tw_user_8274,0.0,-2.0,Independent,2 Liberal,887,737
+tw_user_3372,-3.0,-3.0,Strong Democrat,1 Very liberal,20020,737
+tw_user_1876,2.0,2.0,Not very strong Republican,6 Conservative,174,737
+tw_user_2276,-3.0,-3.0,Strong Democrat,1 Very liberal,126,737
+tw_user_8522,-3.0,-3.0,Strong Democrat,1 Very liberal,51,737
+tw_user_6096,-3.0,-2.0,Strong Democrat,2 Liberal,1772,737
+tw_user_8905,-3.0,-2.0,Strong Democrat,2 Liberal,426,737
+tw_user_7377,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,3861,737
+tw_user_6902,-2.0,-2.0,Not very strong Democrat,2 Liberal,119,737
+tw_user_8179,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,42,737
+tw_user_5385,0.0,0.0,Independent,4 Middle of the road,276,737
+tw_user_2250,2.0,-3.0,Not very strong Republican,1 Very liberal,654,737
+tw_user_6821,-2.0,-2.0,Not very strong Democrat,2 Liberal,782,737
+tw_user_8292,-3.0,-3.0,Strong Democrat,1 Very liberal,436,737
+tw_user_5789,,-3.0,Other party,1 Very liberal,763,737
+tw_user_5707,0.0,0.0,Independent,4 Middle of the road,41,737
+tw_user_1950,-3.0,-3.0,Strong Democrat,1 Very liberal,259,737
+tw_user_5903,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,1698,737
+tw_user_1435,-3.0,-3.0,Strong Democrat,1 Very liberal,13892,737
+tw_user_9765,2.0,1.0,Not very strong Republican,5 Somewhat conservative,199,737
+tw_user_2039,3.0,3.0,Strong Republican,7 Very conservative,12,737
+tw_user_8184,-2.0,0.0,Not very strong Democrat,4 Middle of the road,2963,737
+tw_user_1766,0.0,-2.0,Independent,2 Liberal,231,737
+tw_user_2654,0.0,0.0,Independent,4 Middle of the road,17,737
+tw_user_4429,3.0,3.0,Strong Republican,7 Very conservative,9535,737
+tw_user_4990,,0.0,No party,4 Middle of the road,112,737
+tw_user_2659,3.0,2.0,Strong Republican,6 Conservative,33,737
+tw_user_5932,-3.0,-3.0,Strong Democrat,1 Very liberal,205,737
+tw_user_8680,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,72,737
+tw_user_5753,-3.0,-3.0,Strong Democrat,1 Very liberal,89785,737
+tw_user_1095,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,9378,737
+tw_user_7601,-1.0,-2.0,Closer to the Democratic party,2 Liberal,1182,737
+tw_user_1998,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,107,737
+tw_user_8824,3.0,2.0,Strong Republican,6 Conservative,22,737
+tw_user_7514,3.0,3.0,Strong Republican,7 Very conservative,300,737
+tw_user_1184,0.0,0.0,Independent,4 Middle of the road,3298,737
+tw_user_1609,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,24,737
+tw_user_4626,3.0,2.0,Strong Republican,6 Conservative,22,737
+tw_user_3836,0.0,-2.0,Independent,2 Liberal,321,737
+tw_user_7640,2.0,0.0,Not very strong Republican,4 Middle of the road,2456,737
+tw_user_2539,3.0,2.0,Strong Republican,6 Conservative,47,737
+tw_user_4757,-3.0,-3.0,Strong Democrat,1 Very liberal,2482,737
+tw_user_7076,-3.0,-2.0,Strong Democrat,2 Liberal,21,737
+tw_user_1350,0.0,0.0,Independent,4 Middle of the road,445,737
+tw_user_4174,,-3.0,Other party,1 Very liberal,373,737
+tw_user_4590,2.0,2.0,Not very strong Republican,6 Conservative,258,737
+tw_user_4344,0.0,1.0,Independent,5 Somewhat conservative,668,737
+tw_user_9037,-3.0,-3.0,Strong Democrat,1 Very liberal,199,737
+tw_user_6727,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,79,737
+tw_user_6443,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,16654,737
+tw_user_7602,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,2798,737
+tw_user_8510,-3.0,-3.0,Strong Democrat,1 Very liberal,1611,737
+tw_user_1761,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,164,737
+tw_user_2243,3.0,3.0,Strong Republican,7 Very conservative,575,737
+tw_user_1582,0.0,-1.0,Independent,3 Somewhat liberal,1091,737
+tw_user_3156,-2.0,-2.0,Not very strong Democrat,2 Liberal,130,737
+tw_user_9798,3.0,2.0,Strong Republican,6 Conservative,217,737
+tw_user_7125,-3.0,-2.0,Strong Democrat,2 Liberal,73,737
+tw_user_3069,0.0,2.0,Independent,6 Conservative,74,737
+tw_user_8923,-3.0,-2.0,Strong Democrat,2 Liberal,460,737
+tw_user_6752,-3.0,-2.0,Strong Democrat,2 Liberal,55,737
+tw_user_7229,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,592,737
+tw_user_2875,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,413,737
+tw_user_4907,-3.0,-3.0,Strong Democrat,1 Very liberal,1049,737
+tw_user_8116,-2.0,0.0,Not very strong Democrat,4 Middle of the road,2022,737
+tw_user_5537,2.0,1.0,Not very strong Republican,5 Somewhat conservative,1391,737
+tw_user_9347,-3.0,0.0,Strong Democrat,4 Middle of the road,2543,737
+tw_user_9105,2.0,2.0,Not very strong Republican,6 Conservative,270,737
+tw_user_8227,0.0,0.0,Independent,4 Middle of the road,207,737
+tw_user_8456,-2.0,0.0,Not very strong Democrat,4 Middle of the road,120,737
+tw_user_6987,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,774,737
+tw_user_7647,1.0,-1.0,Closer to the Republican party,3 Somewhat liberal,1149,737
+tw_user_7223,-3.0,-3.0,Strong Democrat,1 Very liberal,600,737
+tw_user_6482,3.0,3.0,Strong Republican,7 Very conservative,1608,737
+tw_user_2670,0.0,-2.0,Independent,2 Liberal,57,737
+tw_user_6844,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,1892,737
+tw_user_3723,3.0,3.0,Strong Republican,7 Very conservative,666,737
+tw_user_4797,3.0,2.0,Strong Republican,6 Conservative,14,737
+tw_user_7464,-3.0,-2.0,Strong Democrat,2 Liberal,8483,737
+tw_user_1319,-3.0,-2.0,Strong Democrat,2 Liberal,112,737
+tw_user_3312,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,125,737
+tw_user_9217,-1.0,-2.0,Closer to the Democratic party,2 Liberal,4443,737
+tw_user_5525,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,82,737
+tw_user_4956,1.0,0.0,Closer to the Republican party,4 Middle of the road,2894,737
+tw_user_4920,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,1032,737
+tw_user_1558,-2.0,-2.0,Not very strong Democrat,2 Liberal,61,737
+tw_user_8281,3.0,3.0,Strong Republican,7 Very conservative,82,737
+tw_user_6279,-2.0,-2.0,Not very strong Democrat,2 Liberal,1048,737
+tw_user_4941,-3.0,-3.0,Strong Democrat,1 Very liberal,3248,737
+tw_user_7941,0.0,2.0,Independent,6 Conservative,187,737
+tw_user_1162,3.0,3.0,Strong Republican,7 Very conservative,2701,737
+tw_user_5175,1.0,2.0,Closer to the Republican party,6 Conservative,3476,737
+tw_user_7290,-3.0,-2.0,Strong Democrat,2 Liberal,5365,737
+tw_user_4481,0.0,-1.0,Independent,3 Somewhat liberal,1020,737
+tw_user_2597,3.0,3.0,Strong Republican,7 Very conservative,1018,737
+tw_user_6574,-2.0,-2.0,Not very strong Democrat,2 Liberal,2693,737
+tw_user_3373,3.0,3.0,Strong Republican,7 Very conservative,26978,737
+tw_user_5190,2.0,1.0,Not very strong Republican,5 Somewhat conservative,111,737
+tw_user_2924,0.0,-1.0,Independent,3 Somewhat liberal,760,737
+tw_user_3307,-3.0,-2.0,Strong Democrat,2 Liberal,170,737
+tw_user_1967,3.0,3.0,Strong Republican,7 Very conservative,2006,737
+tw_user_1743,-3.0,-2.0,Strong Democrat,2 Liberal,662,737
+tw_user_8383,1.0,2.0,Closer to the Republican party,6 Conservative,17,737
+tw_user_6470,0.0,0.0,Independent,4 Middle of the road,5771,737
+tw_user_2686,2.0,1.0,Not very strong Republican,5 Somewhat conservative,75,737
+tw_user_2102,-2.0,0.0,Not very strong Democrat,4 Middle of the road,213,737
+tw_user_1741,2.0,0.0,Not very strong Republican,4 Middle of the road,11580,737
+tw_user_2054,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,387,737
+tw_user_2548,-1.0,-2.0,Closer to the Democratic party,2 Liberal,1017,737
+tw_user_2652,3.0,3.0,Strong Republican,7 Very conservative,8399,737
+tw_user_9441,0.0,0.0,Independent,4 Middle of the road,31,737
+tw_user_6285,-3.0,-3.0,Strong Democrat,1 Very liberal,98,737
+tw_user_7735,0.0,0.0,Independent,4 Middle of the road,38,737
+tw_user_6594,0.0,0.0,Independent,4 Middle of the road,1510,737
+tw_user_4524,3.0,2.0,Strong Republican,6 Conservative,1522,737
+tw_user_5632,-3.0,-3.0,Strong Democrat,1 Very liberal,28,737
+tw_user_1662,3.0,3.0,Strong Republican,7 Very conservative,326,737
+tw_user_1363,-3.0,-3.0,Strong Democrat,1 Very liberal,920,737
+tw_user_8088,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,64,737
+tw_user_1044,-2.0,0.0,Not very strong Democrat,4 Middle of the road,1227,737
+tw_user_8889,-3.0,-3.0,Strong Democrat,1 Very liberal,6785,737
+tw_user_9201,-3.0,2.0,Strong Democrat,6 Conservative,289,737
+tw_user_2179,3.0,-3.0,Strong Republican,1 Very liberal,78,737
+tw_user_7572,-3.0,-3.0,Strong Democrat,1 Very liberal,4260,737
+tw_user_2014,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,354,737
+tw_user_9448,3.0,3.0,Strong Republican,7 Very conservative,281,737
+tw_user_9463,0.0,0.0,Independent,4 Middle of the road,169,737
+tw_user_2430,0.0,0.0,Independent,4 Middle of the road,15,737
+tw_user_7088,3.0,2.0,Strong Republican,6 Conservative,1892,737
+tw_user_3323,0.0,-2.0,Independent,2 Liberal,444,737
+tw_user_9794,0.0,0.0,Independent,4 Middle of the road,291,737
+tw_user_7962,-3.0,-3.0,Strong Democrat,1 Very liberal,1775,737
+tw_user_4446,-3.0,0.0,Strong Democrat,4 Middle of the road,126,737
+tw_user_8099,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,775,737
+tw_user_9134,,0.0,No party,4 Middle of the road,323,737
+tw_user_6348,-2.0,-2.0,Not very strong Democrat,2 Liberal,2747,737
+tw_user_6820,-3.0,-2.0,Strong Democrat,2 Liberal,69197,737
+tw_user_9264,,1.0,No party,5 Somewhat conservative,142,737
+tw_user_9429,-2.0,0.0,Not very strong Democrat,4 Middle of the road,182,737
+tw_user_5137,0.0,2.0,Independent,6 Conservative,4421,737
+tw_user_8542,-3.0,0.0,Strong Democrat,4 Middle of the road,98,737
+tw_user_6081,2.0,1.0,Not very strong Republican,5 Somewhat conservative,691,737
+tw_user_2671,-3.0,-2.0,Strong Democrat,2 Liberal,36351,737
+tw_user_8426,3.0,2.0,Strong Republican,6 Conservative,59,737
+tw_user_4190,-3.0,-3.0,Strong Democrat,1 Very liberal,537,737
+tw_user_4381,-3.0,-3.0,Strong Democrat,1 Very liberal,589,737
+tw_user_5854,-3.0,0.0,Strong Democrat,4 Middle of the road,3057,737
+tw_user_3340,-3.0,-2.0,Strong Democrat,2 Liberal,182,737
+tw_user_2072,0.0,0.0,Independent,4 Middle of the road,6363,737
+tw_user_7777,0.0,-2.0,Independent,2 Liberal,4122,737
+tw_user_2646,-2.0,0.0,Not very strong Democrat,4 Middle of the road,11314,737
+tw_user_4177,2.0,0.0,Not very strong Republican,4 Middle of the road,17970,737
+tw_user_4478,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,365,737
+tw_user_7703,-2.0,-2.0,Not very strong Democrat,2 Liberal,1007,737
+tw_user_4022,-3.0,-3.0,Strong Democrat,1 Very liberal,2119,737
+tw_user_2746,3.0,2.0,Strong Republican,6 Conservative,56,737
+tw_user_6254,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,18,737
+tw_user_4299,3.0,3.0,Strong Republican,7 Very conservative,3063,737
+tw_user_6703,3.0,3.0,Strong Republican,7 Very conservative,2127,737
+tw_user_7111,-3.0,-3.0,Strong Democrat,1 Very liberal,446,737
+tw_user_6813,3.0,3.0,Strong Republican,7 Very conservative,21,737
+tw_user_4826,2.0,-1.0,Not very strong Republican,3 Somewhat liberal,182,737
+tw_user_8425,1.0,2.0,Closer to the Republican party,6 Conservative,180,737
+tw_user_9665,3.0,3.0,Strong Republican,7 Very conservative,31172,737
+tw_user_7987,-3.0,-3.0,Strong Democrat,1 Very liberal,4322,737
+tw_user_3010,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,132,737
+tw_user_4148,3.0,2.0,Strong Republican,6 Conservative,180,737
+tw_user_2860,-3.0,-3.0,Strong Democrat,1 Very liberal,117,737
+tw_user_6307,3.0,3.0,Strong Republican,7 Very conservative,11720,737
+tw_user_1086,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,1909,737
+tw_user_4212,2.0,0.0,Not very strong Republican,4 Middle of the road,101,737
+tw_user_9741,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,88,737
+tw_user_8192,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,1234,737
+tw_user_6804,-1.0,-2.0,Closer to the Democratic party,2 Liberal,270,737
+tw_user_1476,0.0,0.0,Independent,4 Middle of the road,495,737
+tw_user_1304,0.0,2.0,Independent,6 Conservative,474,737
+tw_user_3768,-3.0,-2.0,Strong Democrat,2 Liberal,368,737
+tw_user_8124,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,160,737
+tw_user_7586,0.0,1.0,Independent,5 Somewhat conservative,56,737
+tw_user_8839,-3.0,-3.0,Strong Democrat,1 Very liberal,1428,737
+tw_user_1813,0.0,0.0,Independent,4 Middle of the road,42,737
+tw_user_4500,0.0,-3.0,Independent,1 Very liberal,103,737
+tw_user_2866,-1.0,1.0,Closer to the Democratic party,5 Somewhat conservative,45,737
+tw_user_9589,-3.0,0.0,Strong Democrat,4 Middle of the road,310,737
+tw_user_4345,1.0,2.0,Closer to the Republican party,6 Conservative,162,737
+tw_user_1666,3.0,2.0,Strong Republican,6 Conservative,3396,737
+tw_user_1398,1.0,2.0,Closer to the Republican party,6 Conservative,6284,737
+tw_user_1906,-2.0,0.0,Not very strong Democrat,4 Middle of the road,433,737
+tw_user_3041,-3.0,0.0,Strong Democrat,4 Middle of the road,10720,737
+tw_user_6121,3.0,3.0,Strong Republican,7 Very conservative,37,737
+tw_user_2706,3.0,2.0,Strong Republican,6 Conservative,5417,737
+tw_user_5552,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,29,737
+tw_user_5921,-2.0,1.0,Not very strong Democrat,5 Somewhat conservative,5743,737
+tw_user_1420,0.0,0.0,Independent,4 Middle of the road,4913,737
+tw_user_3848,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,877,737
+tw_user_6767,0.0,0.0,Independent,4 Middle of the road,6375,737
+tw_user_3041,-3.0,0.0,Strong Democrat,4 Middle of the road,10720,737
+tw_user_9281,-3.0,-2.0,Strong Democrat,2 Liberal,87,737
+tw_user_9474,-3.0,-3.0,Strong Democrat,1 Very liberal,433,737
+tw_user_3816,3.0,2.0,Strong Republican,6 Conservative,1016,737
+tw_user_8468,2.0,2.0,Not very strong Republican,6 Conservative,616,737
+tw_user_3347,-3.0,-2.0,Strong Democrat,2 Liberal,1085,737
+tw_user_2856,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,7024,737
+tw_user_2511,0.0,0.0,Independent,4 Middle of the road,18300,737
+tw_user_5038,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,2554,737
+tw_user_3807,3.0,2.0,Strong Republican,6 Conservative,462,737
+tw_user_8336,0.0,0.0,Independent,4 Middle of the road,5,737
+tw_user_8240,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,561,737
+tw_user_2246,3.0,2.0,Strong Republican,6 Conservative,1725,737
+tw_user_6846,-3.0,-3.0,Strong Democrat,1 Very liberal,27,737
+tw_user_2685,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,1002,737
+tw_user_2744,,1.0,No party,5 Somewhat conservative,2449,737
+tw_user_5865,0.0,-1.0,Independent,3 Somewhat liberal,3411,737
+tw_user_6020,-3.0,-3.0,Strong Democrat,1 Very liberal,139,737
+tw_user_7287,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,959,737
+tw_user_6855,3.0,3.0,Strong Republican,7 Very conservative,26,737
+tw_user_9381,3.0,3.0,Strong Republican,7 Very conservative,7561,737
+tw_user_3541,-3.0,0.0,Strong Democrat,4 Middle of the road,8848,737
+tw_user_6255,-2.0,0.0,Not very strong Democrat,4 Middle of the road,1067,737
+tw_user_2545,3.0,-2.0,Strong Republican,2 Liberal,5476,737
+tw_user_5076,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,7158,737
+tw_user_8901,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,6566,737
+tw_user_5197,3.0,3.0,Strong Republican,7 Very conservative,1388,737
+tw_user_3158,0.0,0.0,Independent,4 Middle of the road,1241,737
+tw_user_2076,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,50,737
+tw_user_4635,-3.0,0.0,Strong Democrat,4 Middle of the road,7710,737
+tw_user_2233,,0.0,No party,4 Middle of the road,509,737
+tw_user_9684,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,6110,737
+tw_user_4463,-2.0,-2.0,Not very strong Democrat,2 Liberal,4068,737
+tw_user_3090,-3.0,-2.0,Strong Democrat,2 Liberal,527,737
+tw_user_8593,-3.0,0.0,Strong Democrat,4 Middle of the road,3870,737
+tw_user_7410,-3.0,-2.0,Strong Democrat,2 Liberal,14991,737
+tw_user_1309,0.0,0.0,Independent,4 Middle of the road,6678,737
+tw_user_2319,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,955,737
+tw_user_1284,2.0,-2.0,Not very strong Republican,2 Liberal,310,737
+tw_user_8607,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,24634,737
+tw_user_6980,-3.0,-2.0,Strong Democrat,2 Liberal,466,737
+tw_user_9891,0.0,0.0,Independent,4 Middle of the road,2515,737
+tw_user_9767,-1.0,-2.0,Closer to the Democratic party,2 Liberal,302,737
+tw_user_8111,-2.0,-2.0,Not very strong Democrat,2 Liberal,205,737
+tw_user_7587,-3.0,-2.0,Strong Democrat,2 Liberal,24,737
+tw_user_8149,-3.0,-3.0,Strong Democrat,1 Very liberal,6572,737
+tw_user_5769,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,533,737
+tw_user_8529,-1.0,-2.0,Closer to the Democratic party,2 Liberal,416,737
+tw_user_9825,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,337,737
+tw_user_5204,-3.0,0.0,Strong Democrat,4 Middle of the road,36,737
+tw_user_5483,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,72,737
+tw_user_9803,-2.0,-2.0,Not very strong Democrat,2 Liberal,5574,737
+tw_user_1140,0.0,0.0,Independent,4 Middle of the road,5483,737
+tw_user_2086,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,65,737
+tw_user_2512,1.0,0.0,Closer to the Republican party,4 Middle of the road,470,737
+tw_user_3344,3.0,3.0,Strong Republican,7 Very conservative,454,737
+tw_user_1993,3.0,-3.0,Strong Republican,1 Very liberal,181,737
+tw_user_7143,0.0,-3.0,Independent,1 Very liberal,820,737
+tw_user_4870,,-2.0,No party,2 Liberal,2624,737
+tw_user_1117,,2.0,No party,6 Conservative,102,737
+tw_user_7267,0.0,0.0,Independent,4 Middle of the road,577,737
+tw_user_8306,-3.0,-2.0,Strong Democrat,2 Liberal,12409,737
+tw_user_2558,0.0,0.0,Independent,4 Middle of the road,703,737
+tw_user_3188,-3.0,-3.0,Strong Democrat,1 Very liberal,9166,737
+tw_user_2714,2.0,0.0,Not very strong Republican,4 Middle of the road,18,737
+tw_user_5166,0.0,0.0,Independent,4 Middle of the road,1991,737
+tw_user_2191,3.0,0.0,Strong Republican,4 Middle of the road,274,737
+tw_user_2717,1.0,2.0,Closer to the Republican party,6 Conservative,188,737
+tw_user_8232,-3.0,0.0,Strong Democrat,4 Middle of the road,4063,737
+tw_user_4740,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,1845,737
+tw_user_8814,,-3.0,Other party,1 Very liberal,3569,737
+tw_user_4968,-2.0,-3.0,Not very strong Democrat,1 Very liberal,90,737
+tw_user_7121,3.0,-2.0,Strong Republican,2 Liberal,52,737
+tw_user_6476,-3.0,-3.0,Strong Democrat,1 Very liberal,380,737
+tw_user_7813,-3.0,-3.0,Strong Democrat,1 Very liberal,387,737
+tw_user_6352,-3.0,-2.0,Strong Democrat,2 Liberal,1241,737
+tw_user_8415,1.0,0.0,Closer to the Republican party,4 Middle of the road,463,737
+tw_user_9750,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,14,737
+tw_user_7911,-1.0,-2.0,Closer to the Democratic party,2 Liberal,3539,737
+tw_user_7861,3.0,-2.0,Strong Republican,2 Liberal,1705,737
+tw_user_6718,0.0,2.0,Independent,6 Conservative,350,737
+tw_user_8932,3.0,-3.0,Strong Republican,1 Very liberal,1151,737
+tw_user_2007,-2.0,-2.0,Not very strong Democrat,2 Liberal,43,737
+tw_user_6657,-2.0,-3.0,Not very strong Democrat,1 Very liberal,1496,737
+tw_user_8592,-3.0,-2.0,Strong Democrat,2 Liberal,2776,737
+tw_user_3121,0.0,1.0,Independent,5 Somewhat conservative,320,737
+tw_user_1614,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,769,737
+tw_user_1631,2.0,1.0,Not very strong Republican,5 Somewhat conservative,716,737
+tw_user_7939,-2.0,0.0,Not very strong Democrat,4 Middle of the road,1002,737
+tw_user_5197,3.0,3.0,Strong Republican,7 Very conservative,1388,737
+tw_user_5605,-3.0,-2.0,Strong Democrat,2 Liberal,2923,737
+tw_user_4117,3.0,-1.0,Strong Republican,3 Somewhat liberal,262,737
+tw_user_8352,-2.0,0.0,Not very strong Democrat,4 Middle of the road,399,737
+tw_user_9861,0.0,0.0,Independent,4 Middle of the road,2631,737
+tw_user_3215,-1.0,-2.0,Closer to the Democratic party,2 Liberal,498,737
+tw_user_8122,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,260,737
+tw_user_1441,,0.0,Other party,4 Middle of the road,120,737
+tw_user_1787,,0.0,No party,4 Middle of the road,25,737
+tw_user_4251,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,437,737
+tw_user_5840,-3.0,-2.0,Strong Democrat,2 Liberal,208,737
+tw_user_4784,-3.0,-3.0,Strong Democrat,1 Very liberal,2144,737
+tw_user_2946,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,452,737
+tw_user_8307,-3.0,0.0,Strong Democrat,4 Middle of the road,847,737
+tw_user_3414,-1.0,-2.0,Closer to the Democratic party,2 Liberal,130,737
+tw_user_2053,,-3.0,No party,1 Very liberal,1305,737
+tw_user_4543,0.0,1.0,Independent,5 Somewhat conservative,218,737
+tw_user_3363,,0.0,No party,4 Middle of the road,679,737
+tw_user_1852,-3.0,-3.0,Strong Democrat,1 Very liberal,90,737
+tw_user_9492,0.0,0.0,Independent,4 Middle of the road,1375,737
+tw_user_5637,0.0,-2.0,Independent,2 Liberal,15,737
+tw_user_2953,-3.0,-3.0,Strong Democrat,1 Very liberal,3192,737
+tw_user_9727,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,49,737
+tw_user_9427,-3.0,-3.0,Strong Democrat,1 Very liberal,1469,737
+tw_user_2939,-3.0,-3.0,Strong Democrat,1 Very liberal,612,737
+tw_user_7977,-3.0,-2.0,Strong Democrat,2 Liberal,880,737
+tw_user_2691,,-3.0,Other party,1 Very liberal,59,737
+tw_user_6359,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,4546,737
+tw_user_9701,1.0,0.0,Closer to the Republican party,4 Middle of the road,7,737
+tw_user_4580,3.0,2.0,Strong Republican,6 Conservative,385,737
+tw_user_6233,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,1945,737
+tw_user_2919,3.0,3.0,Strong Republican,7 Very conservative,9312,737
+tw_user_6119,-3.0,-3.0,Strong Democrat,1 Very liberal,977,737
+tw_user_3595,-2.0,-3.0,Not very strong Democrat,1 Very liberal,3006,737
+tw_user_7724,-3.0,0.0,Strong Democrat,4 Middle of the road,184,737
+tw_user_6529,0.0,-3.0,Independent,1 Very liberal,569,737
+tw_user_6045,0.0,0.0,Independent,4 Middle of the road,291,737
+tw_user_6432,-3.0,0.0,Strong Democrat,4 Middle of the road,8645,737
+tw_user_2789,-1.0,-2.0,Closer to the Democratic party,2 Liberal,4425,737
+tw_user_1132,,-3.0,No party,1 Very liberal,538,737
+tw_user_2507,-3.0,-3.0,Strong Democrat,1 Very liberal,68,737
+tw_user_7790,-3.0,-3.0,Strong Democrat,1 Very liberal,120,737
+tw_user_9061,-3.0,-3.0,Strong Democrat,1 Very liberal,609,737
+tw_user_4961,-3.0,-3.0,Strong Democrat,1 Very liberal,1306,737
+tw_user_4111,-1.0,-2.0,Closer to the Democratic party,2 Liberal,1973,737
+tw_user_8634,,0.0,No party,4 Middle of the road,2154,737
+tw_user_3054,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,115,737
+tw_user_2315,-3.0,-3.0,Strong Democrat,1 Very liberal,11212,737
+tw_user_5993,0.0,-2.0,Independent,2 Liberal,4825,737
+tw_user_9972,3.0,0.0,Strong Republican,4 Middle of the road,313,737
+tw_user_2040,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,4497,737
+tw_user_7667,0.0,2.0,Independent,6 Conservative,1696,737
+tw_user_6976,-3.0,-3.0,Strong Democrat,1 Very liberal,1067,737
+tw_user_9377,-2.0,0.0,Not very strong Democrat,4 Middle of the road,3132,737
+tw_user_6090,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,1285,737
+tw_user_3619,-3.0,-3.0,Strong Democrat,1 Very liberal,324,737
+tw_user_8139,3.0,3.0,Strong Republican,7 Very conservative,246,737
+tw_user_7345,1.0,1.0,Closer to the Republican party,5 Somewhat conservative,2164,737
+tw_user_5985,,-2.0,No party,2 Liberal,36,737
+tw_user_3315,,-3.0,No party,1 Very liberal,1357,737
+tw_user_5927,-3.0,-2.0,Strong Democrat,2 Liberal,5489,737
+tw_user_5279,3.0,0.0,Strong Republican,4 Middle of the road,2134,737
+tw_user_1037,0.0,3.0,Independent,7 Very conservative,79,737
+tw_user_1208,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,153,737
+tw_user_9976,-2.0,0.0,Not very strong Democrat,4 Middle of the road,1381,737
+tw_user_4878,0.0,1.0,Independent,5 Somewhat conservative,533,737
+tw_user_2268,2.0,0.0,Not very strong Republican,4 Middle of the road,24,737
+tw_user_3559,3.0,2.0,Strong Republican,6 Conservative,43,737
+tw_user_7651,-3.0,-2.0,Strong Democrat,2 Liberal,363,737
+tw_user_3851,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,5437,737
+tw_user_4569,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,77,737
+tw_user_3096,-3.0,-2.0,Strong Democrat,2 Liberal,341,737
+tw_user_1684,-3.0,-3.0,Strong Democrat,1 Very liberal,5738,737
+tw_user_1246,-3.0,-3.0,Strong Democrat,1 Very liberal,1202,737
+tw_user_6401,-3.0,3.0,Strong Democrat,7 Very conservative,1304,737
+tw_user_6837,-3.0,-3.0,Strong Democrat,1 Very liberal,999,737
+tw_user_8113,-3.0,0.0,Strong Democrat,4 Middle of the road,3234,737
+tw_user_3247,0.0,0.0,Independent,4 Middle of the road,35,737
+tw_user_6576,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,124,737
+tw_user_4919,1.0,-1.0,Closer to the Republican party,3 Somewhat liberal,102,737
+tw_user_7379,-3.0,-3.0,Strong Democrat,1 Very liberal,374,737
+tw_user_8922,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,39,737
+tw_user_5550,-3.0,-1.0,Strong Democrat,3 Somewhat liberal,16,737
+tw_user_2815,2.0,2.0,Not very strong Republican,6 Conservative,39,737
+tw_user_9529,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,854,737
+tw_user_6015,0.0,-2.0,Independent,2 Liberal,310,737
+tw_user_2080,-3.0,-2.0,Strong Democrat,2 Liberal,253,737
+tw_user_3345,0.0,0.0,Independent,4 Middle of the road,2276,737
+tw_user_4303,-3.0,-2.0,Strong Democrat,2 Liberal,16161,737
+tw_user_9878,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,2450,737
+tw_user_2331,-3.0,-3.0,Strong Democrat,1 Very liberal,3477,737
+tw_user_4255,-3.0,-2.0,Strong Democrat,2 Liberal,76,737
+tw_user_6979,2.0,0.0,Not very strong Republican,4 Middle of the road,89,737
+tw_user_7966,-3.0,-3.0,Strong Democrat,1 Very liberal,3798,737
+tw_user_1161,,0.0,No party,4 Middle of the road,630,737
+tw_user_2368,-2.0,0.0,Not very strong Democrat,4 Middle of the road,1020,737
+tw_user_7165,2.0,3.0,Not very strong Republican,7 Very conservative,134,737
+tw_user_5153,1.0,2.0,Closer to the Republican party,6 Conservative,3244,737
+tw_user_4040,0.0,0.0,Independent,4 Middle of the road,110,737
+tw_user_2496,-3.0,-3.0,Strong Democrat,1 Very liberal,24,737
+tw_user_4880,1.0,0.0,Closer to the Republican party,4 Middle of the road,6527,737
+tw_user_4515,2.0,-1.0,Not very strong Republican,3 Somewhat liberal,33,737
+tw_user_7982,0.0,0.0,Independent,4 Middle of the road,959,737
+tw_user_1855,1.0,2.0,Closer to the Republican party,6 Conservative,382,737
+tw_user_2293,0.0,-3.0,Independent,1 Very liberal,2262,737
+tw_user_7503,2.0,2.0,Not very strong Republican,6 Conservative,1351,737
+tw_user_3023,-3.0,-3.0,Strong Democrat,1 Very liberal,479,737
+tw_user_5782,3.0,2.0,Strong Republican,6 Conservative,1300,737
+tw_user_7686,-3.0,-3.0,Strong Democrat,1 Very liberal,896,737
+tw_user_1036,0.0,0.0,Independent,4 Middle of the road,268,737
+tw_user_2582,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,38,737
+tw_user_7153,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,1555,737
+tw_user_6042,-3.0,-3.0,Strong Democrat,1 Very liberal,979,737
+tw_user_4119,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,5539,737
+tw_user_6153,3.0,3.0,Strong Republican,7 Very conservative,1031,737
+tw_user_7745,,-3.0,Other party,1 Very liberal,483,737
+tw_user_2455,-3.0,-3.0,Strong Democrat,1 Very liberal,909,737
+tw_user_9921,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,277,737
+tw_user_1481,,0.0,No party,4 Middle of the road,781,737
+tw_user_4556,-3.0,-3.0,Strong Democrat,1 Very liberal,281,737
+tw_user_1769,-3.0,-2.0,Strong Democrat,2 Liberal,229,737
+tw_user_8575,-3.0,-3.0,Strong Democrat,1 Very liberal,818,737
+tw_user_2168,-3.0,-2.0,Strong Democrat,2 Liberal,862,737
+tw_user_7331,0.0,-1.0,Independent,3 Somewhat liberal,3658,737
+tw_user_1226,-1.0,-1.0,Closer to the Democratic party,3 Somewhat liberal,233,737
+tw_user_1957,,-3.0,Other party,1 Very liberal,2446,737
+tw_user_6419,-3.0,-2.0,Strong Democrat,2 Liberal,177,737
+tw_user_1600,3.0,2.0,Strong Republican,6 Conservative,1227,737
+tw_user_8151,-3.0,-3.0,Strong Democrat,1 Very liberal,26204,737
+tw_user_8178,-3.0,0.0,Strong Democrat,4 Middle of the road,4824,737
+tw_user_1477,0.0,-1.0,Independent,3 Somewhat liberal,72,737
+tw_user_5248,2.0,1.0,Not very strong Republican,5 Somewhat conservative,139,737
+tw_user_7956,-3.0,-3.0,Strong Democrat,1 Very liberal,2830,737
+tw_user_4733,3.0,0.0,Strong Republican,4 Middle of the road,205,737
+tw_user_9603,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,227,737
+tw_user_5771,-3.0,-3.0,Strong Democrat,1 Very liberal,385,737
+tw_user_2899,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,629,737
+tw_user_2618,-3.0,-3.0,Strong Democrat,1 Very liberal,582,737
+tw_user_4474,0.0,0.0,Independent,4 Middle of the road,736,737
+tw_user_3416,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,6281,737
+tw_user_6737,-3.0,-2.0,Strong Democrat,2 Liberal,63,737
+tw_user_5284,-3.0,2.0,Strong Democrat,6 Conservative,66,737
+tw_user_1705,-3.0,0.0,Strong Democrat,4 Middle of the road,90,737
+tw_user_9792,-2.0,-2.0,Not very strong Democrat,2 Liberal,735,737
+tw_user_8701,-3.0,-2.0,Strong Democrat,2 Liberal,738,737
+tw_user_1524,-3.0,-2.0,Strong Democrat,2 Liberal,297,737
+tw_user_3635,3.0,3.0,Strong Republican,7 Very conservative,434,737
+tw_user_4026,3.0,3.0,Strong Republican,7 Very conservative,1301,737
+tw_user_8446,3.0,-2.0,Strong Republican,2 Liberal,22,737
+tw_user_8661,-2.0,-2.0,Not very strong Democrat,2 Liberal,211,737
+tw_user_5623,-1.0,-2.0,Closer to the Democratic party,2 Liberal,27,737
+tw_user_1358,-3.0,-3.0,Strong Democrat,1 Very liberal,398,737
+tw_user_8023,-3.0,-3.0,Strong Democrat,1 Very liberal,6300,737
+tw_user_7996,1.0,-1.0,Closer to the Republican party,3 Somewhat liberal,42,737
+tw_user_9496,-3.0,-2.0,Strong Democrat,2 Liberal,1183,737
+tw_user_6239,3.0,3.0,Strong Republican,7 Very conservative,1243,737
+tw_user_6580,1.0,0.0,Closer to the Republican party,4 Middle of the road,701,737
+tw_user_4825,2.0,2.0,Not very strong Republican,6 Conservative,18,737
+tw_user_6774,-2.0,0.0,Not very strong Democrat,4 Middle of the road,2073,737
+tw_user_2682,0.0,0.0,Independent,4 Middle of the road,202,737
+tw_user_5515,0.0,1.0,Independent,5 Somewhat conservative,1480,737
+tw_user_8540,-2.0,0.0,Not very strong Democrat,4 Middle of the road,250,737
+tw_user_3507,0.0,0.0,Independent,4 Middle of the road,206,737
+tw_user_6654,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,2313,737
+tw_user_1858,1.0,2.0,Closer to the Republican party,6 Conservative,10894,737
+tw_user_7101,0.0,0.0,Independent,4 Middle of the road,178,737
+tw_user_6760,-2.0,0.0,Not very strong Democrat,4 Middle of the road,13053,737
+tw_user_4842,-1.0,-2.0,Closer to the Democratic party,2 Liberal,2740,737
+tw_user_6533,-3.0,-2.0,Strong Democrat,2 Liberal,133,737
+tw_user_7680,-3.0,-3.0,Strong Democrat,1 Very liberal,756,737
+tw_user_6226,-3.0,-3.0,Strong Democrat,1 Very liberal,620,737
+tw_user_4527,3.0,3.0,Strong Republican,7 Very conservative,1819,737
+tw_user_1142,0.0,0.0,Independent,4 Middle of the road,1473,737
+tw_user_9513,2.0,1.0,Not very strong Republican,5 Somewhat conservative,396,737
+tw_user_8512,1.0,0.0,Closer to the Republican party,4 Middle of the road,2799,737
+tw_user_5862,-1.0,-2.0,Closer to the Democratic party,2 Liberal,2191,737
+tw_user_7668,3.0,3.0,Strong Republican,7 Very conservative,112,737
+tw_user_7085,-1.0,0.0,Closer to the Democratic party,4 Middle of the road,79,737
+tw_user_8933,-3.0,-3.0,Strong Democrat,1 Very liberal,184,737
+tw_user_6088,-2.0,-1.0,Not very strong Democrat,3 Somewhat liberal,28,737
+tw_user_8631,0.0,0.0,Independent,4 Middle of the road,53,737
+tw_user_9725,-2.0,0.0,Not very strong Democrat,4 Middle of the road,9,737
+tw_user_1220,2.0,1.0,Not very strong Republican,5 Somewhat conservative,59,737
+tw_user_3360,-3.0,-3.0,Strong Democrat,1 Very liberal,435,737
+tw_user_7580,-3.0,-3.0,Strong Democrat,1 Very liberal,1289,737
+tw_user_5805,-1.0,-3.0,Closer to the Democratic party,1 Very liberal,1319,737
+tw_user_4796,,0.0,No party,4 Middle of the road,94,737
+tw_user_6861,-2.0,1.0,Not very strong Democrat,5 Somewhat conservative,205,737
+tw_user_8003,0.0,0.0,Independent,4 Middle of the road,324,737
+tw_user_3238,-3.0,-3.0,Strong Democrat,1 Very liberal,388,737
+tw_user_2524,3.0,3.0,Strong Republican,7 Very conservative,989,737
+tw_user_8757,-3.0,-3.0,Strong Democrat,1 Very liberal,1057,737
+tw_user_7918,-2.0,2.0,Not very strong Democrat,6 Conservative,55,737
+tw_user_2459,-3.0,0.0,Strong Democrat,4 Middle of the road,158,737
+tw_user_9316,0.0,0.0,Independent,4 Middle of the road,1624,737
+tw_user_5574,2.0,0.0,Not very strong Republican,4 Middle of the road,2063,737
+tw_user_7975,-3.0,-3.0,Strong Democrat,1 Very liberal,197,737
+tw_user_6311,-3.0,-3.0,Strong Democrat,1 Very liberal,761,737
+tw_user_4900,-2.0,-2.0,Not very strong Democrat,2 Liberal,4520,737
+tw_user_7819,0.0,-3.0,Independent,1 Very liberal,12950,737
+tw_user_8823,-3.0,2.0,Strong Democrat,6 Conservative,726,737
+tw_user_4838,,1.0,No party,5 Somewhat conservative,827,737
+tw_user_9916,0.0,0.0,Independent,4 Middle of the road,715,737
+tw_user_5431,1.0,0.0,Closer to the Republican party,4 Middle of the road,32,737
+tw_user_7338,-3.0,-3.0,Strong Democrat,1 Very liberal,1207,737
+tw_user_9033,-3.0,-2.0,Strong Democrat,2 Liberal,33,737
+tw_user_6830,-3.0,-2.0,Strong Democrat,2 Liberal,2933,737
+tw_user_2435,-2.0,0.0,Not very strong Democrat,4 Middle of the road,584,737
+tw_user_8834,-3.0,2.0,Strong Democrat,6 Conservative,336,737
+tw_user_2771,-3.0,-2.0,Strong Democrat,2 Liberal,41,737
+tw_user_7192,1.0,0.0,Closer to the Republican party,4 Middle of the road,4413,737
+tw_user_4461,0.0,0.0,Independent,4 Middle of the road,129,737
+tw_user_9063,-3.0,0.0,Strong Democrat,4 Middle of the road,24365,737
+tw_user_3150,-3.0,-2.0,Strong Democrat,2 Liberal,3260,737
+tw_user_9881,3.0,0.0,Strong Republican,4 Middle of the road,55,737
